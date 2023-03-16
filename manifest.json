@@ -2,8 +2,8 @@
   	"id": "341a65a5-46ac-4512-aca8-15f24e5f6240",
   	"authors": ["Llama"],
  	"origin": "https://github.com/DrClefsFacility/SCP-SL-AMD-Template.git",
-	"url": "",
+	"url": "https://github.com/DrClefsFacility/SCP-SL-AMD-Template.git",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "scp-sl",
 	"repotype": "AppTemplates"
 }
